@@ -1,0 +1,20 @@
+/* ADDITIONAL STYLING START */
+
+
+p#birthday {
+	font-weight: bold;
+}
+
+ul#list-bio {
+	padding: 0px 0px 0px 20px;
+}
+
+ul#list-bio li {
+	font-weight: bold;
+}
+
+ul#list-bio li img {
+	padding: 15px 0px 15px 0px;
+}
+
+/* ADDITIONAL STYLING STOP */

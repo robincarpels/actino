@@ -1,0 +1,291 @@
+/* MAIN CSS STYLING START */
+body {
+	background: #996;
+}
+
+#wrapper {
+	width: 1000px;
+	margin: auto;
+	background: white;
+	overflow: hidden;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px; /* future proofing */
+	-khtml-border-radius: 10px; /* for old Konqueror browsers */
+}
+
+#header{
+	background: white;
+}
+
+#navigation{
+	background: #D1CF7A;
+	margin: 0px;
+	float: left;
+	width: 1000px;
+
+}
+
+footer{
+	background-color: #D1CF7A;
+	float: left;
+	width: 1000px;
+}
+
+#main-index{
+	float: left;
+	background-color: white;
+	width: 710px;
+	padding: 0px 20px 10px 20px;
+	font-family: 'Ruluko', sans-serif;
+}
+
+#main{
+	float: left;
+	background-color: white;
+	width: 980px;
+	padding: 0px 20px 10px 20px;
+	font-family: 'Ruluko', sans-serif;
+}
+
+p {
+	font-size: 14px;
+}
+
+p a {
+	font-weight: bold;
+	color: #996;
+}
+
+footer ul {
+	list-style: none;
+	float: right;
+	padding: 0px;
+}
+
+footer li {
+	display: inline;
+	padding-right: 10px;
+	padding-top: 0px;
+}
+
+footer li a {
+	display: inline;
+	text-decoration: none;
+	font-family: 'Ruluko', sans-serif;
+	color: #fff;
+	
+}
+
+footer p {
+	margin: 14px 0px 0px 10px;
+	float: left;
+	font-family: 'Ruluko', sans-serif;	
+	color: #fff;
+}
+
+/* MENU STYLING START*/
+ul#list-nav {
+	list-style: none;
+	margin: 0px;
+	padding: 0;
+	width: 1000px;
+	font-family: 'Ruluko', sans-serif;
+}
+
+ul#list-nav li {
+	display: inline
+}
+
+ul#list-nav li a {
+	text-decoration: none;
+	padding: 6px 0;
+	width: 100px;
+	background-color: #D1CF7A;
+	color: #fff;
+	float: left;
+	text-align: center;
+	border-right: 1px solid #fff;
+	font-size: 14px;
+}
+
+ul#list-nav li a:hover {
+	background-color: #996;
+	color: #fff
+}
+
+/* MENU STYLING STOP */
+
+/* MAIN CSS STYLING STOP */
+
+/* INDEX STYLING START */
+
+aside{
+	width: 230px;
+	padding: 10px;
+	float: left;
+	background-color: #e3e3e3;
+	font-family: 'Ruluko', sans-serif;
+}
+
+ul {
+	font-size: 14px;
+}
+
+#promo {
+	width: 710px;
+	padding: 0px 20px 10px 20px;
+}
+
+#promo p{
+	font-family: 'Ruluko', sans-serif;		
+}
+
+#promo h1{
+	font-family: 'Ruluko', sans-serif;		
+}
+
+#promo h2{
+	font-family: 'Ruluko', sans-serif;		
+}
+
+h1.promo {
+	font-size: 25px;
+	font-weight: bolder;
+	margin-bottom: 0px;
+}
+
+/* INDEX STYLING STOP */
+
+/* BIOGRAFIE STYLING START */
+p#birthday {
+	font-weight: bold;
+}
+
+ul#list-bio {
+	padding: 0px 0px 0px 20px;
+	list-style: none;
+}
+
+ul#list-bio li {
+	font-weight: bold;
+}
+
+ul#list-bio li img {
+	padding: 15px 0px 15px 0px;
+}
+
+/* BIOGRAFIE STYLING STOP */
+
+/* CONTACT STYLING START */
+#flickr-slider {
+	margin: auto;
+}
+/* CONTACT STYLING STOP */
+
+/* CONTACT STYLING START */
+
+/* CONTACT STYLING STOP */
+
+
+/* FIMO STYLING START */
+
+/* FIMO STYLING STOP */
+
+
+/* WORKSHOP STYLING START */
+
+h1{
+	font-size: 30px;
+}
+
+h2{
+	font-size: 24px;
+}
+
+h3{
+	font-size: 20px
+}
+
+h1.workshop_title{
+	font-size: 25px;
+	font-weight: bolder;
+	margin-bottom: 0px;
+	text-decoration: underline;
+}
+
+h2.workshop_subTitle{
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+p.workshop_description{
+	margin-top: 0px;
+}
+
+p.workshop_date{
+	font-weight: bold;
+}
+
+p.workshop_priceExplain {
+	font-weight: bold;
+}
+
+ul#photolist_workshops{
+	list-style: none;
+}
+
+ul#photolist_workshops li {
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+
+ul#photolist_workshops li img {
+	padding-top: 7px;
+}
+
+img.workshop {
+	margin-bottom: 15px;
+}
+
+#span {
+	background-color: #e3e3e3;
+	width: 900px;
+	padding: 10px;
+}
+
+#span h3{
+	padding-left: 10px;
+}
+/* WORKSHOP STYLING STOP */
+
+
+/* NIEUWSBRIEF STYLING START */
+
+/* NIEUWSBRIEF STYLING STOP */
+
+
+/* LINKS STYLING START */
+
+ul#linklist{
+	list-style: none;
+}
+
+ul#linklist li {
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+
+ul#linklist li img {
+	padding-top: 7px;
+}
+
+ul#linklist li a {
+	font-weight: bolder;
+	padding-bottom: 10px;
+	color: #996;
+	text-decoration: none;
+}
+
+/* LINKS STYLING STOP */
